@@ -11,8 +11,8 @@ AuraSound Pro is a next-generation cloud audio streaming, real-time digital sign
 ## Installation Instructions
 ```bash
 # Clone the repository
-git clone git@github.com:gandhikomarala/Coding_raja_technologies_internship_Simple_music_player.git
-cd Coding_raja_technologies_internship_Simple_music_player
+git clone git@github.com:satyavasavi-ux/coding_raja_music_player_repo.git
+cd coding_raja_music_player_repo
 
 # Backend dependencies
 pip install -r backend/requirements.txt
